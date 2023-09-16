@@ -11,7 +11,6 @@ Adoro explorar novas tecnologias, frameworks e bibliotecas, pois acredito que a 
 ## Tecnologias e Ferramentas
 
 - Linguagens de programação: Python, JavaScript, HTML, CSS
-- Frameworks e bibliotecas: Flask, Django, React
 - Ferramentas de desenvolvimento: Git, Visual Studio Code, PyCharm
 
 ## Projetos
