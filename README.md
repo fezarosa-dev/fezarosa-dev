@@ -1,31 +1,92 @@
-# Bem-vindo(a) ao meu perfil no GitHub! 👋
+<h1 align="center">Hey 👋What's Up?</h1>
 
-## Sobre mim
+###
 
-Olá! Eu sou Felipe Zanoni da Rosa, um estudante apaixonado por tecnologia, programação e desenvolvimento de software. Estou no segundo ano do Ensino Médio no IFSP Campus Salto, e estou animado para embarcar nessa incrível jornada de aprendizado e descoberta.
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
-Desde que descobri a magia da programação, me tornei fascinado pela habilidade de criar soluções inovadoras e enfrentar desafios complexos. Tenho habilidades em Python, JavaScript, HTML e CSS,Node JS,SQL e estou constantemente aprimorando minhas habilidades nessas áreas.
+###
 
-Adoro explorar novas tecnologias, frameworks e bibliotecas, pois acredito que a diversidade é essencial para o crescimento pessoal e profissional. Sou um(a) entusiasta de projetos de código aberto, e acredito que a colaboração e a troca de conhecimentos são fundamentais para o avanço da comunidade de desenvolvedores.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="60" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="60" alt="sqlalchemy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="60" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+</div>
 
-## Tecnologias e Ferramentas
+###
 
-- Linguagens de programação: Python, JavaScript, HTML, CSS, SQL, Node JS
-- Ferramentas de desenvolvimento: Git, Visual Studio Code, PyCharm, MYSQL, PG.
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=fezarosa-dev.fezarosa-dev&"  />
+</div>
 
-## Próximos Passos
+###
 
-Estou animado com o futuro da minha jornada como desenvolvedor(a). Pretendo continuar expandindo meu conhecimento em programação, aprimorando minhas habilidades em diferentes linguagens e explorando novas tecnologias empolgantes. Também estou interessado(a) em aprender sobre desenvolvimento web e aprofundar meus conhecimentos em frameworks populares, como React e Flask.
+<div align="center">
+  <a href="https://www.linkedin.com/in/felipe-zanoni/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/felipezrosa/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="fezarosa@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://wa.me/5511943772412?text=Oi%2C%20tudo%20bem%3F%20Vim%20pelo%20seu%20GitHub" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  </a>
+</div>
 
-Estou sempre aberto(a) a novos desafios e oportunidades de aprendizado. Se você tiver algum projeto interessante ou ideia empolgante para compartilhar, não hesite em entrar em contato comigo!
+###
 
-## Contato
+<br clear="both">
 
-- Email: fezarosa@gmail.com
-- Telefone: +55 11 94377-2412 (prefira entrar em contato pelo telefone)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fezarosa-dev/fezarosa-dev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fezarosa-dev/fezarosa-dev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fezarosa-dev/fezarosa-dev/output/pacman-contribution-graph.svg">
+</picture>
 
-Estou ansioso(a) para me conectar com outros desenvolvedores, trocar conhecimentos e trabalhar em projetos emocionantes. Vamos construir um futuro tecnológico incrível juntos!
+###
 
-## Obrigado por visitar!
+<br clear="both">
 
-Agradeço por passar pelo meu perfil no GitHub. Sinta-se à vontade para explorar meus projetos e entrar em contato comigo. Vamos impulsionar a inovação e tornar o mundo da programação ainda mais surpreendente! 😄
+<img src="https://raw.githubusercontent.com/fezarosa-dev/fezarosa-dev/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
