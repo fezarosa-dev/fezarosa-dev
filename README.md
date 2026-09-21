@@ -19,7 +19,6 @@ Backend, automation and autonomous systems · Computer Science @ UNIFEI · Itaju
 I'm **Felipe Zanoni**, a Software Engineer with experience in **backend development, automation and systems integration**. I've worked in **Industry 4.0** environments (TMD Friction) and in **full stack** development (Sage Networks), always focused on **Python, Linux, Docker** and solid engineering practices.
 
 - 🎓 Studying **Computer Science** at **UNIFEI** (expected graduation: 2029)
-- 🐝 Building software for **autonomous drones** with **ROS2** and **computer vision**
 - 🌱 I enjoy projects that combine well-structured code with real-world problems, from industrial process automation to mission-critical embedded systems
 - 📍 From Salto, SP · currently living in Itajubá, MG, Brazil
 - 🎮 Outside of code: gaming, cooking, collecting perfumes and playing truco, poker and other card games
